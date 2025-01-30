@@ -1,26 +1,6 @@
-# **Vocabulary/Lingo Challenge**
+# **Vocabulary/Lingo**
 
-## **1. Repository Link and Screenshots**
-
-- **Repository Link**: [Weather Dashboard Repo](https://github.com/chrisglw/app_weather_challenge_fa24)
-- **Hugging Face Link**: [ds460/landaverde_streamlit_docker](https://github.com/chrisglw/app_weather_challenge_fa24)
-- **Screenshots**:
-
-### Single Location Weather
-![Single Location](screenshots/single_location.png)
-
-### Compare Locations
-![Compare Locations](screenshots/compare_locations.png)
-
-### Variable Selection
-![Variable Selection](screenshots/variable_selection.png)
-
-### Summary Metrics
-![Summary Metrics](screenshots/summary_metrics.png)
-
----
-
-## **2. Added Value of Using Databricks in Data Science**
+## **Added Value of Using Databricks in Data Science**
 
 Databricks is a unified platform for data engineering, data science, and machine learning. It integrates with Apache Spark and provides several advantages:
 
@@ -34,7 +14,7 @@ Databricks is a unified platform for data engineering, data science, and machine
 
 ---
 
-## **3. PySpark vs Pandas**
+## **PySpark vs Pandas**
 
 | **Aspect**                | **PySpark**                                                                                   | **Pandas**                                                                                     |
 |---------------------------|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
@@ -50,7 +30,7 @@ Use PySpark for distributed, large-scale tasks like processing terabytes of sens
 ---
 
 
-## **4. Explain Docker to a Non-Tech Person**
+## **Docker to a Non-Tech Person**
 
 **What is Docker?**  
 Docker is like a gym membership system, but instead of workouts, it packages and runs apps in isolated environments called **containers**. Think of each container as a personalized fitness studio where everything you need for a specific workout is already provided.
